@@ -23,7 +23,7 @@ body{
 .section-bg2{
     width: 100%;
     min-height: 626px;
-    background-image: url(/discord/images/bg-image-right.svg);
+    background-image: url(../images/bg-image-right.svg);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-position-x: 129%;
