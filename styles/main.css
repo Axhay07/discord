@@ -13,7 +13,7 @@ body{
     min-height: 626px;
     background-color: #404eed;
     color: white;
-    background-image: url(/images/2.svg);
+    background-image: url(images/2.svg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-position-x: -38%;
@@ -23,7 +23,7 @@ body{
 .section-bg2{
     width: 100%;
     min-height: 626px;
-    background-image: url(/images/bg-image-right.svg);
+    background-image: url(images/bg-image-right.svg);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-position-x: 129%;
